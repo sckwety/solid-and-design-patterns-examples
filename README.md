@@ -1,1 +1,1 @@
-# solid-and-design-patterns-examples
+# Solid and design patterns examples
